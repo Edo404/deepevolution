@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+:root {
+  --error-container: #ffdad6;
+  --on-error-container: #93000a;
+  --surface-container-lowest: #ffffff;
+  --on-tertiary-fixed-variant: #900e00;
+  --tertiary-container: #9a1000;
+  --tertiary-fixed: #ffdad4;
+  --background: #f9f9fc;
+  --tertiary: #700900;
+  --on-surface: #1a1c1e;
+  --secondary: #4e57a7;
+  --primary-fixed-dim: #bdc2ff;
+  --surface-container-low: #f3f3f6;
+  --surface-container-high: #e8e8ea;
+  --on-secondary-fixed: #020a63;
+  --inverse-on-surface: #f0f0f3;
+  --surface-bright: #f9f9fc;
+  --secondary-fixed-dim: #bdc2ff;
+  --inverse-surface: #2f3133;
+  --on-primary-container: #b1b8ff;
+  --primary: #0016ae;
+  --on-secondary-fixed-variant: #363f8e;
+  --surface: #f9f9fc;
+  --error: #ba1a1a;
+  --secondary-container: #9ea7fe;
+  --tertiary-fixed-dim: #ffb4a6;
+  --on-tertiary-container: #ffa695;
+  --on-primary-fixed: #000865;
+  --on-primary: #ffffff;
+  --secondary-fixed: #dfe0ff;
+  --outline: #757688;
+  --on-surface-variant: #444556;
+  --surface-container: #eeeef0;
+  --on-tertiary: #ffffff;
+  --primary-fixed: #dfe0ff;
+  --surface-dim: #dadadc;
+  --primary-container: #0f28e5;
+  --surface-tint: #2f43f6;
+  --on-tertiary-fixed: #3f0300;
+  --surface-container-highest: #e2e2e5;
+  --on-error: #ffffff;
+  --on-background: #1a1c1e;
+  --on-primary-fixed-variant: #001ede;
+  --outline-variant: #c5c5d9;
+  --surface-variant: #e2e2e5;
+  --on-secondary-container: #303988;
+  --on-secondary: #ffffff;
+  --inverse-primary: #bdc2ff;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}
+
+body {
+  font-family: Inter, sans-serif;
+}
